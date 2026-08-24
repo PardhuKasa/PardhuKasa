@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-I am K. Pardhasaradhi, a B.Tech Computer Science and Engineering student at RGUKT Nuzvid, with a strong interest in software development and emerging technologies. I have a good foundation in Java, Python, C, SQL, HTML, CSS, JavaScript, React.js, and Node.js, and I am currently strengthening my skills in Spring Boot and backend development.<br><br>I enjoy building practical projects, solving programming problems, and continuously learning new technologies. I have also participated in hackathons and internships, which helped me improve my technical, teamwork, and problem-solving skills. My goal is to become a skilled software developer and contribute to real-world projects while continuously improving my knowledge.
+I am K. Pardhasaradhi, a B.Tech Computer Science and Engineering student at RGUKT Nuzvid, with a strong interest in software development and emerging technologies. I have a good foundation in Java, C, SQL, HTML, CSS, JavaScript, React.js and I am currently strengthening my skills in Spring Boot and backend development.<br><br>I enjoy building practical projects, solving programming problems, and continuously learning new technologies. I have also participated in hackathons and internships, which helped me improve my technical, teamwork, and problem-solving skills. My goal is to become a skilled software developer and contribute to real-world projects while continuously improving my knowledge.
 
 
 ## 🌐 Socials:
